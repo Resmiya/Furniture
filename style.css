@@ -1,0 +1,25 @@
+.btbuy
+{
+    background-color:#ED7745;
+    color:white;
+}
+.ctitle
+{
+    color:#ED7745;
+}
+.fname
+{
+    text-decoration: none;
+    color:#ED7745;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.f{
+    font-weight: bold;
+
+}
+.h:hover{
+    border: solid 1px #ED7745; ;
+}
